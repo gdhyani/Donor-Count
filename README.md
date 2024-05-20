@@ -1,4 +1,4 @@
-# DappFundsX Project Documentation
+# Donor Connect Project Documentation
 
 <!-- Read the full tutorial here: **[>> How to build a Decentralized Event Marketplace with Next.js, TypeScript, Tailwind CSS, and Solidity](https://daltonic.github.io)** -->
 
